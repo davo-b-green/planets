@@ -1,0 +1,8 @@
+to cite this work please use the following citation:
+
+@article{MarsIsAwesome,
+   author = {David Green},
+   title = {The coolest planet in the solar system},
+   journal = {Journal of Epic Solar Systems}
+   type = {Journal Article}
+}
